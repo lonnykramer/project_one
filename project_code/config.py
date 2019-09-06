@@ -1,1 +1,1 @@
-yelpkey = "mrC5eAevjm4hEn9uxV8vzjWgUilqJjmqvYlcPeAT80dJpVsUorrnsZhglJpqGuJR6fFQU-_OXJqSkljlovTWwfI-TXQTZiQwBhoeUl5NtpB3S8TZHQpunbp9IktfXXYx"
+yelpkey = "PUT YOUR API KEY HERE"
